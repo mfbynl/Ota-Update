@@ -10,8 +10,8 @@ const char* host = "iothook.com";
 const int httpsPort = 80;
 
 
-const char* ssid = "Mese";
-const char* password = "MeseBilisim1303**";
+const char* ssid = "****";
+const char* password = "****";
 
 
   
